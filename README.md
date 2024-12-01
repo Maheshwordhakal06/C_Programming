@@ -1,2 +1,1 @@
-This is were we try to understandard about github. how ot use git hub and how to code the c programming.
-this is also my first experiunce on github .
+The file our first dynamics calculator enables you to perform any arethmitic operatin with minimal time effort 
